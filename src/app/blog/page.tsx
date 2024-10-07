@@ -63,7 +63,7 @@ export default function Blog() {
 			/>
             <Heading
                 marginBottom="l"
-                variant="display-strong-s">
+                variant="heading-strong-l">
                 {blog.title}
             </Heading>
 			<Flex
